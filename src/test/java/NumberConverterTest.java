@@ -1,7 +1,4 @@
-import task1.NumberConverter;
-
 import java.util.stream.IntStream;
-import java.util.logging.ConsoleHandler;
 
 /**
  * Created by Administrator on 7/24/2016.
